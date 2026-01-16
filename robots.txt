@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Menghubungkan Google langsung ke peta situs Anda
+Sitemap: https://hamkahrahap01.github.io/Hamkahrahap.github.io/sitemap.xml
